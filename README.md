@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.gonzalojs.com/](https://www.gonzalojs.com/)
 
-- 💬 Ask me about **Javascript, Node**
+- 💬 Ask me about **Javascript, Node, Web Scraping**
 
 - 📫 How to reach me **hi@gonzalojs.com**
 
