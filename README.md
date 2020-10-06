@@ -1,7 +1,7 @@
 <h1 align="center">Hola!, I'm Gonzalo Gutiérrez</h1>
 <h3 align="center">A FullStack developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalojs&count_private=true" alt="gonzalojs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalojs" alt="gonzalojs" /> </p>
 
 - 🌱 I’m currently learning **Vue 3 composition api**
 
@@ -23,4 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalojs&layout=compact" alt="gonzalojs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalojs&show_icons=true" alt="gonzalojs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalojs&count_private=true&show_icons=true" alt="gonzalojs" /></p>
+y
