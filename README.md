@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.gonzalojs.com/](https://www.gonzalojs.com/)
 
-- 💬 Ask me about **Vue, Vanilla Js, Node**
+- 💬 Ask me about **Javascript, Node**
 
-- 📫 How to reach me **hi@gonzalo.com**
+- 📫 How to reach me **hi@gonzalojs.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
